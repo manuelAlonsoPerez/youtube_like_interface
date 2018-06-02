@@ -25,7 +25,7 @@ Check also npm is installed
 
 #### On linux terminal
 
-1. In target directory clone the repository from gitLab
+1. In target directory clone the repository from gitHub
 
 	` git clone https://github.com/manuelAlonsoPerez/youtube_like_interface.git`
 
@@ -55,3 +55,5 @@ Download  .zip, .tar, .tar.gz or .tar compressed package, decompress it to targe
 
 The  project is working and is possible to introduce new searches. The searchbar is dessigned as a controlled component, any value update will trigger a new search in the Youtube Api and re-render the components.
 All new searches are debounced to improve smooth functioning.
+
+![](./youtube_like_interface.png)
